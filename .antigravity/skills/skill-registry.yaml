@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: moroccoan-restitution-roadmap-and-qsf-trust-execution
-  name: Moroccoan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/moroccoan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_ma_001
+    name: Morocco Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_002
+    name: Morocco Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_003
+    name: Morocco Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_004
+    name: Morocco Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_005
+    name: Morocco Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_006
+    name: Morocco Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_007
+    name: Morocco Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_008
+    name: Morocco Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_009
+    name: Morocco Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_010
+    name: Morocco Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_011
+    name: Morocco Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_012
+    name: Morocco Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_013
+    name: Morocco Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_014
+    name: Morocco Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_015
+    name: Morocco Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_016
+    name: Morocco Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_017
+    name: Morocco Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_018
+    name: Morocco Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_019
+    name: Morocco Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_020
+    name: Morocco Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_021
+    name: Morocco Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_022
+    name: Morocco Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_023
+    name: Morocco Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_024
+    name: Morocco Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_025
+    name: Morocco Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_026
+    name: Morocco Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_027
+    name: Morocco Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_028
+    name: Morocco Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_029
+    name: Morocco Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_030
+    name: Morocco Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_031
+    name: Morocco Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_032
+    name: Morocco Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_033
+    name: Morocco Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_034
+    name: Morocco Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_035
+    name: Morocco Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_036
+    name: Morocco Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_037
+    name: Morocco Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_038
+    name: Morocco Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_039
+    name: Morocco Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_040
+    name: Morocco Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_041
+    name: Morocco Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_042
+    name: Morocco Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_043
+    name: Morocco Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_044
+    name: Morocco Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_045
+    name: Morocco Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_046
+    name: Morocco Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_047
+    name: Morocco Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_048
+    name: Morocco Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_049
+    name: Morocco Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_050
+    name: Morocco Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_051
+    name: Morocco Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_052
+    name: Morocco Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_053
+    name: Morocco Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_054
+    name: Morocco Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_055
+    name: Morocco Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_056
+    name: Morocco Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_057
+    name: Morocco Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_058
+    name: Morocco Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_059
+    name: Morocco Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_060
+    name: Morocco Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_061
+    name: Morocco Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_062
+    name: Morocco Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_063
+    name: Morocco Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_064
+    name: Morocco Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_065
+    name: Morocco Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_066
+    name: Morocco Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_067
+    name: Morocco Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_068
+    name: Morocco Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_069
+    name: Morocco Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_070
+    name: Morocco Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_071
+    name: Morocco Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_072
+    name: Morocco Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_073
+    name: Morocco Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_074
+    name: Morocco Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_075
+    name: Morocco Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_076
+    name: Morocco Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_077
+    name: Morocco Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_078
+    name: Morocco Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_079
+    name: Morocco Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_080
+    name: Morocco Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_081
+    name: Morocco Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_082
+    name: Morocco Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_083
+    name: Morocco Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_084
+    name: Morocco Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_085
+    name: Morocco Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_086
+    name: Morocco Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_087
+    name: Morocco Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_088
+    name: Morocco Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_089
+    name: Morocco Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_090
+    name: Morocco Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_091
+    name: Morocco Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_092
+    name: Morocco Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_093
+    name: Morocco Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_094
+    name: Morocco Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_095
+    name: Morocco Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_096
+    name: Morocco Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_097
+    name: Morocco Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_098
+    name: Morocco Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_099
+    name: Morocco Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_100
+    name: Morocco Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_101
+    name: Morocco Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_102
+    name: Morocco Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_103
+    name: Morocco Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_104
+    name: Morocco Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_105
+    name: Morocco Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_106
+    name: Morocco Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_107
+    name: Morocco Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_108
+    name: Morocco Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_109
+    name: Morocco Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_110
+    name: Morocco Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_111
+    name: Morocco Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_112
+    name: Morocco Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_113
+    name: Morocco Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_114
+    name: Morocco Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_115
+    name: Morocco Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_116
+    name: Morocco Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_117
+    name: Morocco Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_118
+    name: Morocco Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_119
+    name: Morocco Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_120
+    name: Morocco Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_121
+    name: Morocco Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_122
+    name: Morocco Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_123
+    name: Morocco Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_124
+    name: Morocco Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_125
+    name: Morocco Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_126
+    name: Morocco Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_127
+    name: Morocco Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_128
+    name: Morocco Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_129
+    name: Morocco Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_130
+    name: Morocco Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_131
+    name: Morocco Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_132
+    name: Morocco Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_133
+    name: Morocco Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_134
+    name: Morocco Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_135
+    name: Morocco Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_136
+    name: Morocco Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_137
+    name: Morocco Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_138
+    name: Morocco Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_139
+    name: Morocco Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_140
+    name: Morocco Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_141
+    name: Morocco Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_142
+    name: Morocco Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_143
+    name: Morocco Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_144
+    name: Morocco Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_145
+    name: Morocco Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_146
+    name: Morocco Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_147
+    name: Morocco Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_148
+    name: Morocco Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_149
+    name: Morocco Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_150
+    name: Morocco Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_151
+    name: Morocco Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_152
+    name: Morocco Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_153
+    name: Morocco Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_154
+    name: Morocco Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_155
+    name: Morocco Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_156
+    name: Morocco Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_157
+    name: Morocco Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_158
+    name: Morocco Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_159
+    name: Morocco Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_160
+    name: Morocco Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_161
+    name: Morocco Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_162
+    name: Morocco Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_163
+    name: Morocco Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_164
+    name: Morocco Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_165
+    name: Morocco Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_166
+    name: Morocco Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_167
+    name: Morocco Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_168
+    name: Morocco Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_169
+    name: Morocco Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_170
+    name: Morocco Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_171
+    name: Morocco Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_172
+    name: Morocco Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_173
+    name: Morocco Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_174
+    name: Morocco Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_175
+    name: Morocco Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_176
+    name: Morocco Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_177
+    name: Morocco Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_178
+    name: Morocco Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_179
+    name: Morocco Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_180
+    name: Morocco Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_181
+    name: Morocco Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_182
+    name: Morocco Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_183
+    name: Morocco Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_184
+    name: Morocco Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_185
+    name: Morocco Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_186
+    name: Morocco Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_187
+    name: Morocco Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_188
+    name: Morocco Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_189
+    name: Morocco Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_190
+    name: Morocco Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_191
+    name: Morocco Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_192
+    name: Morocco Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_193
+    name: Morocco Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_194
+    name: Morocco Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_195
+    name: Morocco Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_196
+    name: Morocco Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_197
+    name: Morocco Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_198
+    name: Morocco Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_199
+    name: Morocco Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_200
+    name: Morocco Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_201
+    name: Morocco Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_202
+    name: Morocco Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_203
+    name: Morocco Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_204
+    name: Morocco Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_205
+    name: Morocco Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_206
+    name: Morocco Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_207
+    name: Morocco Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_208
+    name: Morocco Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_209
+    name: Morocco Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_210
+    name: Morocco Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_211
+    name: Morocco Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_212
+    name: Morocco Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_213
+    name: Morocco Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_214
+    name: Morocco Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_215
+    name: Morocco Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_216
+    name: Morocco Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_217
+    name: Morocco Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_218
+    name: Morocco Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_219
+    name: Morocco Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_220
+    name: Morocco Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_221
+    name: Morocco Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_222
+    name: Morocco Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_223
+    name: Morocco Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_224
+    name: Morocco Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_225
+    name: Morocco Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_226
+    name: Morocco Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_227
+    name: Morocco Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_228
+    name: Morocco Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_229
+    name: Morocco Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_230
+    name: Morocco Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_231
+    name: Morocco Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_232
+    name: Morocco Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_233
+    name: Morocco Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_234
+    name: Morocco Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_235
+    name: Morocco Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_236
+    name: Morocco Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_237
+    name: Morocco Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_238
+    name: Morocco Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_239
+    name: Morocco Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_240
+    name: Morocco Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_241
+    name: Morocco Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_242
+    name: Morocco Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_243
+    name: Morocco Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_244
+    name: Morocco Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_245
+    name: Morocco Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_246
+    name: Morocco Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_247
+    name: Morocco Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_248
+    name: Morocco Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_249
+    name: Morocco Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_250
+    name: Morocco Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_251
+    name: Morocco Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ma_252
+    name: Morocco Skill 252
+    status: ACTIVE_SCAFFOLD

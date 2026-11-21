@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-morocco-canal-and-intervention-historian
-  name: Morocco Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-morocco-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_ma_001
+    name: Morocco Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_002
+    name: Morocco Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_003
+    name: Morocco Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_004
+    name: Morocco Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_005
+    name: Morocco Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_006
+    name: Morocco Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_007
+    name: Morocco Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_008
+    name: Morocco Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_009
+    name: Morocco Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_010
+    name: Morocco Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_011
+    name: Morocco Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_012
+    name: Morocco Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_013
+    name: Morocco Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_014
+    name: Morocco Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_015
+    name: Morocco Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_016
+    name: Morocco Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_017
+    name: Morocco Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_018
+    name: Morocco Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_019
+    name: Morocco Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_020
+    name: Morocco Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_021
+    name: Morocco Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_022
+    name: Morocco Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_023
+    name: Morocco Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_024
+    name: Morocco Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_025
+    name: Morocco Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_026
+    name: Morocco Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_027
+    name: Morocco Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_028
+    name: Morocco Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_029
+    name: Morocco Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_030
+    name: Morocco Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_031
+    name: Morocco Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_032
+    name: Morocco Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_033
+    name: Morocco Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_034
+    name: Morocco Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_035
+    name: Morocco Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_036
+    name: Morocco Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_037
+    name: Morocco Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_038
+    name: Morocco Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_039
+    name: Morocco Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_040
+    name: Morocco Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_041
+    name: Morocco Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_042
+    name: Morocco Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_043
+    name: Morocco Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_044
+    name: Morocco Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_045
+    name: Morocco Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_046
+    name: Morocco Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_047
+    name: Morocco Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_048
+    name: Morocco Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_049
+    name: Morocco Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_050
+    name: Morocco Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_051
+    name: Morocco Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_052
+    name: Morocco Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_053
+    name: Morocco Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_054
+    name: Morocco Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_055
+    name: Morocco Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_056
+    name: Morocco Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_057
+    name: Morocco Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_058
+    name: Morocco Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_059
+    name: Morocco Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_060
+    name: Morocco Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_061
+    name: Morocco Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_062
+    name: Morocco Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_063
+    name: Morocco Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_064
+    name: Morocco Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_065
+    name: Morocco Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_066
+    name: Morocco Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_067
+    name: Morocco Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_068
+    name: Morocco Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_069
+    name: Morocco Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_070
+    name: Morocco Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_071
+    name: Morocco Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_072
+    name: Morocco Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_073
+    name: Morocco Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_074
+    name: Morocco Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_075
+    name: Morocco Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_076
+    name: Morocco Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_077
+    name: Morocco Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_078
+    name: Morocco Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_079
+    name: Morocco Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_080
+    name: Morocco Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_081
+    name: Morocco Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_082
+    name: Morocco Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_083
+    name: Morocco Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_084
+    name: Morocco Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_085
+    name: Morocco Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_086
+    name: Morocco Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_087
+    name: Morocco Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_088
+    name: Morocco Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_089
+    name: Morocco Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_090
+    name: Morocco Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_091
+    name: Morocco Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_092
+    name: Morocco Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_093
+    name: Morocco Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_094
+    name: Morocco Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_095
+    name: Morocco Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_096
+    name: Morocco Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_097
+    name: Morocco Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_098
+    name: Morocco Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_099
+    name: Morocco Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_100
+    name: Morocco Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_101
+    name: Morocco Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_102
+    name: Morocco Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_103
+    name: Morocco Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_104
+    name: Morocco Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_105
+    name: Morocco Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_106
+    name: Morocco Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_107
+    name: Morocco Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_108
+    name: Morocco Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_109
+    name: Morocco Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_110
+    name: Morocco Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_111
+    name: Morocco Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_112
+    name: Morocco Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_113
+    name: Morocco Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_114
+    name: Morocco Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_115
+    name: Morocco Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_116
+    name: Morocco Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_117
+    name: Morocco Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_118
+    name: Morocco Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_119
+    name: Morocco Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_120
+    name: Morocco Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_121
+    name: Morocco Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_122
+    name: Morocco Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_123
+    name: Morocco Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_124
+    name: Morocco Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_125
+    name: Morocco Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_126
+    name: Morocco Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_127
+    name: Morocco Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_128
+    name: Morocco Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_129
+    name: Morocco Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_130
+    name: Morocco Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_131
+    name: Morocco Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_132
+    name: Morocco Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_133
+    name: Morocco Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_134
+    name: Morocco Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_135
+    name: Morocco Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_136
+    name: Morocco Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_137
+    name: Morocco Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_138
+    name: Morocco Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_139
+    name: Morocco Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_140
+    name: Morocco Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_141
+    name: Morocco Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_142
+    name: Morocco Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_143
+    name: Morocco Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_144
+    name: Morocco Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_145
+    name: Morocco Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_146
+    name: Morocco Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_147
+    name: Morocco Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_148
+    name: Morocco Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_149
+    name: Morocco Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_150
+    name: Morocco Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_151
+    name: Morocco Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_152
+    name: Morocco Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_153
+    name: Morocco Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_154
+    name: Morocco Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_155
+    name: Morocco Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_156
+    name: Morocco Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_157
+    name: Morocco Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_158
+    name: Morocco Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_159
+    name: Morocco Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_160
+    name: Morocco Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_161
+    name: Morocco Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_162
+    name: Morocco Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_163
+    name: Morocco Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_164
+    name: Morocco Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_165
+    name: Morocco Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_166
+    name: Morocco Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_167
+    name: Morocco Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_168
+    name: Morocco Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_169
+    name: Morocco Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ma_170
+    name: Morocco Agent 170
+    status: ACTIVE_SCAFFOLD
