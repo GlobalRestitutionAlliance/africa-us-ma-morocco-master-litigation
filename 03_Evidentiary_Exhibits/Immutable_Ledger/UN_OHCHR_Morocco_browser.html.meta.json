@@ -1,0 +1,16 @@
+{
+  "url": "https://www.ohchr.org/en/countries/morocco",
+  "final_url": "https://www.ohchr.org/en/countries/morocco",
+  "title": "UN OHCHR Morocco",
+  "fetched_at": "2026-11-23T06:37:08.843604Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 80020,
+  "sha256": "20b57d06fc99f146d90e4861da371744b2edcf38f13f91e197745b78bc4c3564",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": true
+}
